@@ -2,4 +2,7 @@
 <resources>
     <string name="app_name">ඉංග්‍රීසි පන්තිය (English Class)</string>
     <string name="action_settings">Settings</string>
+
+    <string name="textAboutAppEnglish">Our humble purpose in creating this app was to provide a better understanding about the English language to those who need to learn and improve their English. We hope you learn many important and new facts and that this app would help you to grow yourself.</string>
+    <string name="textAboutAppSinhala">මෙම යෙදුම නිර්මාණය කිරීමේදී අපගේ නිහතමානී අරමුණ වූයේ ඉංග්‍රීසි ඉගෙනීමට හා වැඩිදියුණු කිරීමට අවශ්‍ය අයට ඉංග්‍රීසි භාෂාව පිළිබඳ වඩා හොඳ අවබෝධයක් ලබා දීමයි. මෙම යෙදුම හරහා ඔබ බොහෝ වැදගත් සහ නව කරුණු ඉගෙන ගනු ඇතැයි සහ ඔබේ දැනුම වර්ධනය වීමට උපකාරී වනු ඇතැයි අපි බලාපොරොත්තු වෙමු.</string>
 </resources>
